@@ -1,0 +1,23 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#0c1929"/>
+  <rect x="40" y="40" width="520" height="320" rx="16" fill="#111d2e" stroke="#38bdf8" stroke-width="1" opacity="0.6"/>
+  <!-- Pipeline boxes -->
+  <rect x="80" y="140" width="90" height="50" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+  <text x="125" y="170" text-anchor="middle" fill="#38bdf8" font-family="monospace" font-size="11">Data</text>
+  <rect x="200" y="140" width="90" height="50" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+  <text x="245" y="170" text-anchor="middle" fill="#38bdf8" font-family="monospace" font-size="11">Train</text>
+  <rect x="320" y="140" width="90" height="50" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+  <text x="365" y="170" text-anchor="middle" fill="#38bdf8" font-family="monospace" font-size="11">Registry</text>
+  <rect x="440" y="140" width="90" height="50" rx="8" fill="#38bdf8" opacity="0.2" stroke="#38bdf8" stroke-width="1"/>
+  <text x="485" y="170" text-anchor="middle" fill="#38bdf8" font-family="monospace" font-size="11">Deploy</text>
+  <!-- Arrows -->
+  <line x1="170" y1="165" x2="200" y2="165" stroke="#38bdf8" stroke-width="1.5" opacity="0.5"/>
+  <line x1="290" y1="165" x2="320" y2="165" stroke="#38bdf8" stroke-width="1.5" opacity="0.5"/>
+  <line x1="410" y1="165" x2="440" y2="165" stroke="#38bdf8" stroke-width="1.5" opacity="0.5"/>
+  <!-- CI/CD loop -->
+  <path d="M485,190 Q485,240 300,240 Q115,240 125,190" fill="none" stroke="#7dd3fc" stroke-width="1" stroke-dasharray="6,3" opacity="0.4"/>
+  <text x="300" y="260" text-anchor="middle" fill="#7dd3fc" font-family="monospace" font-size="11" opacity="0.6">CI/CD Pipeline</text>
+  <!-- Bottom text -->
+  <text x="300" y="300" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="13">MLOps End-to-End Pipeline</text>
+  <text x="300" y="325" text-anchor="middle" fill="#475569" font-family="monospace" font-size="11">GitHub Actions · Azure ML · MLflow</text>
+</svg>
