@@ -8,7 +8,7 @@ export const PROJECTS = [
     github: "https://github.com/sergiocanes",
     technologies: ["python"],
     image: {
-      url: "/projects/genai-agents.svg",
+      url: "/portfolio-sergio-cancan/projects/genai-agents.svg",
     },
   },
   {
@@ -20,7 +20,7 @@ export const PROJECTS = [
     github: "https://github.com/sergiocanes",
     technologies: ["python"],
     image: {
-      url: "/projects/chatbot.svg",
+      url: "/portfolio-sergio-cancan/projects/chatbot.svg",
     },
   },
   {
@@ -32,7 +32,7 @@ export const PROJECTS = [
     github: "https://github.com/sergiocanes",
     technologies: ["python"],
     image: {
-      url: "/projects/soft-robotics.svg",
+      url: "/portfolio-sergio-cancan/projects/soft-robotics.svg",
     },
   },
   {
@@ -44,7 +44,7 @@ export const PROJECTS = [
     github: "https://github.com/sergiocanes/mlops_project_lab",
     technologies: ["python", "docker", "git"],
     image: {
-      url: "/projects/mlops.svg",
+      url: "/portfolio-sergio-cancan/projects/mlops.svg",
     },
   },
 ];

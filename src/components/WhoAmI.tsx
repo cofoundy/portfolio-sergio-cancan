@@ -13,7 +13,7 @@ const Who: FC = () => {
         data-scroll
         data-scroll-speed="2"
         className="w-[225px] h-[225px] rounded-full"
-        src="/avatar.jpg"
+        src="/portfolio-sergio-cancan/avatar.jpg"
         alt="Sergio Cancan"
         width={225}
         height={225}

@@ -1,17 +1,19 @@
+const BASE = "/portfolio-sergio-cancan";
+
 export const SOCIAL_LINKS = [
   {
     title: "Email",
-    icon: "/email.svg",
+    icon: `${BASE}/email.svg`,
     link: "mailto:sergiocancane@gmail.com",
   },
   {
     title: "Github",
-    icon: "/github.svg",
+    icon: `${BASE}/github.svg`,
     link: "https://github.com/sergiocanes",
   },
   {
     title: "LinkedIn",
-    icon: "/linkedin.svg",
+    icon: `${BASE}/linkedin.svg`,
     link: "https://www.linkedin.com/in/sergio-cancan",
   },
 ];

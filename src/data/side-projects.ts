@@ -6,7 +6,7 @@ export const SIDE_PROJECTS = [
       "Versatile vacuum-powered artificial muscles through replaceable external reinforcements. Co-autor.",
     link: "https://doi.org/10.3389/frobt.2023.1289074",
     icon: {
-      url: "/side-projects/publication.svg",
+      url: "/portfolio-sergio-cancan/side-projects/publication.svg",
     },
   },
   {
@@ -16,7 +16,7 @@ export const SIDE_PROJECTS = [
       "Design and Control of a Fabric Vacuum-Powered Artificial Muscle for Rehabilitation Devices.",
     link: "https://www.linkedin.com/in/sergio-cancan",
     icon: {
-      url: "/side-projects/publication.svg",
+      url: "/portfolio-sergio-cancan/side-projects/publication.svg",
     },
   },
   {
@@ -26,7 +26,7 @@ export const SIDE_PROJECTS = [
       "Synthesis of Planar Linkages Using Optimization Methods. Smart Innovation, Systems and Technologies.",
     link: "https://www.linkedin.com/in/sergio-cancan",
     icon: {
-      url: "/side-projects/publication.svg",
+      url: "/portfolio-sergio-cancan/side-projects/publication.svg",
     },
   },
   {
@@ -36,7 +36,7 @@ export const SIDE_PROJECTS = [
       "Desarrollo de vehículo ultra-eficiente. Motor con 85.8% de eficiencia. Premios por diseño.",
     link: "https://www.linkedin.com/in/sergio-cancan",
     icon: {
-      url: "/side-projects/engineering.svg",
+      url: "/portfolio-sergio-cancan/side-projects/engineering.svg",
     },
   },
 ];
